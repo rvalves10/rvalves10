@@ -45,12 +45,14 @@ Sou o Richard, desenvolvedor backend em formação e ex-líder de setor no varej
 
 ---
 
-### 📈 Estatísticas
+### 📊 GitHub em Números
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rvalves10&show_icons=true&theme=github_dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvalves10&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rvalves10&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvalves10&layout=compact&theme=github-dark&hide_border=true" alt="Linguagens mais usadas" />
 </p>
+
 
 ---
 
