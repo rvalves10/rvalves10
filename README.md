@@ -70,8 +70,8 @@ Sou o Richard, desenvolvedor backend em formação e ex-líder de setor no varej
 
 ### 📫 Como falar comigo
 
-- 📧 E-mail: seuemail@email.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/richardvictor/)
+- 📧 E-mail: richardvic12@gmail.com  
+- 💼 [LinkedIn](www.linkedin.com/in/richard-victor-3611a5303)
 
 ---
 
