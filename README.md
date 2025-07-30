@@ -1,16 +1,72 @@
-## Hi there 👋
+<h1 align="center">Richard Victor</h1>
 
-<!--
-**rvalves10/rvalves10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🧠 Backend Developer em formação | 🔍 Explorando o mundo da IA | 🌎 Foco em carreira internacional
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Sobre mim
+
+Sou o Richard, desenvolvedor backend em formação e ex-líder de setor no varejo. Hoje, estou mergulhado de cabeça no universo da tecnologia, buscando transformar minha trajetória profissional por meio do desenvolvimento de soluções com propósito.
+
+📍 Sorocaba - SP, Brasil  
+🎓 Cursando Análise e Desenvolvimento de Sistemas - FACES  
+📚 Estudando Python e fundamentos do desenvolvimento backend  
+🇺🇸 Foco em oportunidades no exterior (EUA).
+💬 Acredito que tecnologia é ponte, não obstáculo
+
+---
+
+### 🚀 Habilidades em desenvolvimento
+
+- Lógica de Programação  
+- Python (sintaxe, funções, OOP, APIs)  
+- Git & GitHub  
+- Estruturas de Dados  
+- Testes básicos com Python  
+
+---
+
+### 🌱 Atualmente estudando
+
+- Trilha de Python para Backend pela [Alura](https://www.alura.com.br)  
+- Projetos pessoais com foco em boas práticas  
+- Inglês básico para tecnologia e conversação
+
+---
+
+### 🧩 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| [QuebraDica Sorocaba](https://github.com/rvalves10/Quebrada-Dica-Sorocaba) | Portal colaborativo para moradores de Sorocaba compartilharem dicas úteis | Python, IA |
+| [Portfólio Pessoal](https://github.com/rvalves10/Portifolio-Richard) | Meu portfólio como dev backend, com projetos e contatos | HTML, GitHub Pages |
+
+---
+
+### 📈 Estatísticas
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rvalves10&show_icons=true&theme=github_dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvalves10&layout=compact&theme=github_dark" />
+</p>
+
+---
+
+### 📫 Como falar comigo
+
+- 📧 E-mail: seuemail@email.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/richardvictor/)
+
+---
+
+### ⚡ Curiosidades
+
+- Tenho 2 anos de experiência como líder de setor no varejo  
+- Estou fazendo transição de carreira com foco total em tecnologia  
+- Meu objetivo é trabalhar com backend e IA nos EUA  
+
+---
+
+<p align="center">💡 Construindo um novo caminho com propósito e consistência</p>
