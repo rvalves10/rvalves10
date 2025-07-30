@@ -45,13 +45,30 @@ Sou o Richard, desenvolvedor backend em formação e ex-líder de setor no varej
 
 ---
 
-### 📊 GitHub em Números
+### 📈 Minha jornada como desenvolvedor
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rvalves10&theme=github-dark&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvalves10&layout=compact&theme=github-dark&hide_border=true" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rvalves10&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Dias consecutivos de contribuição" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvalves10&layout=donut&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+</p>
+
+---
+
+<div align="center">
+
+🟦 **Foco Atual:** Python, Backend e Boas Práticas  
+🟨 **Mentalidade:** Aprender todos os dias, errar rápido e evoluir sempre  
+🟩 **Objetivo:** Ser referência como dev backend e migrar para o mercado internacional  
+
+</div>
+
+---
+
+<p align="center"><i>"Cada commit é um passo a mais rumo ao meu propósito."</i></p>
+
 
 
 ---
