@@ -44,34 +44,29 @@ Sou o Richard, desenvolvedor backend em formação e ex-líder de setor no varej
 | [Portfólio Pessoal](https://github.com/rvalves10/Portifolio-Richard) | Meu portfólio como dev backend, com projetos e contatos | HTML, GitHub Pages |
 
 ---
-
 ### 📈 Minha jornada como desenvolvedor
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rvalves10&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Dias consecutivos de contribuição" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvalves10&layout=donut&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
-</p>
-
----
 
 <div align="center">
 
-🟦 **Foco Atual:** Python, Backend e Boas Práticas  
-🟨 **Mentalidade:** Aprender todos os dias, errar rápido e evoluir sempre  
-🟩 **Objetivo:** Ser referência como dev backend e migrar para o mercado internacional  
+<img src="https://github-readme-stats.vercel.app/api?username=rvalves10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvalves10&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
 
 ---
 
-<p align="center"><i>"Cada commit é um passo a mais rumo ao meu propósito."</i></p>
+<div align="center">
 
+🔵 <strong>Foco atual:</strong> Python e Backend  
+🟢 <strong>Meta:</strong> Atuar como dev backend e migrar para os EUA  
+🟡 <strong>Estilo:</strong> Prático, colaborativo e com propósito
 
+</div>
 
 ---
+
+<p align="center"><i>"Cada commit é um passo rumo a algo maior."</i></p>
+
 
 ### 📫 Como falar comigo
 
