@@ -56,9 +56,9 @@ Portfólio Pessoal	Meu portfólio profissional, desenvolvido para apresentar min
 
 📫 Vamos nos Conectar?
 <div style="text-align: center;">
-  <a href="mailto:richardvic12@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
+  <a href="mailto:richardvic12@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
 </div>
 <a href="https://www.linkedin.com/in/richard-victor-3611a5303" target="_blank">
 <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
