@@ -1,10 +1,12 @@
 <h1 align="center">Richard Victor</h1>
 
+
 <p align="center">
 <strong>Desenvolvedor Backend & Entusiasta de Inteligência Artificial</strong>
 <br />
 Apaixonado por código limpo e soluções com propósito | 🚀 Buscando uma carreira internacional
 </p>
+
 
 👨‍💻 Sobre Mim
 Olá, sou o Richard! Um desenvolvedor backend em transição de carreira, vindo de uma experiência de 2 anos em liderança no setor de varejo. Essa jornada me proporcionou habilidades valiosas em resolução de problemas e comunicação, que agora aplico no universo da tecnologia.
@@ -12,6 +14,7 @@ Olá, sou o Richard! Um desenvolvedor backend em transição de carreira, vindo 
 Meu objetivo é construir uma carreira sólida e internacional, utilizando Python e IA para desenvolver soluções eficientes e com impacto real. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e me dedicando integralmente a aprimorar minhas competências técnicas.
 
 Localização: Sorocaba - SP, Brasil
+
 
 🛠️ Tecnologias e Ferramentas
 Aqui estão as tecnologias com as quais estou trabalhando e estudando:
@@ -22,6 +25,7 @@ Ferramentas e Plataformas: Git, GitHub, Docker (básico)
 
 Conceitos: Lógica de Programação, Programação Orientada a Objetos (OOP), Estruturas de Dados, Desenvolvimento de APIs, Testes Unitários.
 
+
 🌱 Foco Atual & Próximos Passos
 Aprofundamento em Backend: Trilha de estudos da Alura, com foco em frameworks como Django ou Flask.
 
@@ -29,17 +33,19 @@ Boas Práticas: Estudo e aplicação de princípios de Clean Code e arquitetura 
 
 Inglês Técnico: Aprimorando a comunicação para o ambiente de trabalho global.
 
+
 🚀 Projetos em Destaque
 Projeto	Descrição	Tecnologias
 QuebraDica Sorocaba	Portal colaborativo para moradores de Sorocaba compartilharem dicas e informações locais, com uso de IA para categorização.	Python, IA
 Portfólio Pessoal	Meu portfólio profissional, desenvolvido para apresentar minha jornada, projetos e habilidades.	HTML, CSS
 
-Exportar para as Planilhas
+
 📈 Minhas Estatísticas no GitHub
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=rvalves10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvalves10&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
+
 
 📫 Vamos nos Conectar?
 <p align="left">
@@ -50,7 +56,7 @@ Exportar para as Planilhas
 <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 </p>
-```
+
 
 <p align="center"><i>"Cada commit é um passo rumo a algo maior."</i></p>
 
