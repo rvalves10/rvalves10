@@ -1,5 +1,6 @@
 <h1 align="center">Richard Victor</h1>
 
+--------------------------------------------------------------------------------------------------------------------------
 
 <p align="center">
 <strong>Desenvolvedor Backend & Entusiasta de Inteligência Artificial</strong>
@@ -7,6 +8,7 @@
 Apaixonado por código limpo e soluções com propósito | 🚀 Buscando uma carreira internacional
 </p>
 
+--------------------------------------------------------------------------------------------------------------------------
 
 👨‍💻 Sobre Mim
 Olá, sou o Richard! Um desenvolvedor backend em transição de carreira, vindo de uma experiência de 2 anos em liderança no setor de varejo. Essa jornada me proporcionou habilidades valiosas em resolução de problemas e comunicação, que agora aplico no universo da tecnologia.
@@ -15,6 +17,7 @@ Meu objetivo é construir uma carreira sólida e internacional, utilizando Pytho
 
 Localização: Sorocaba - SP, Brasil
 
+--------------------------------------------------------------------------------------------------------------------------
 
 🛠️ Tecnologias e Ferramentas
 Aqui estão as tecnologias com as quais estou trabalhando e estudando:
@@ -25,6 +28,7 @@ Ferramentas e Plataformas: Git, GitHub, Docker (básico)
 
 Conceitos: Lógica de Programação, Programação Orientada a Objetos (OOP), Estruturas de Dados, Desenvolvimento de APIs, Testes Unitários.
 
+--------------------------------------------------------------------------------------------------------------------------
 
 🌱 Foco Atual & Próximos Passos
 Aprofundamento em Backend: Trilha de estudos da Alura, com foco em frameworks como Django ou Flask.
@@ -33,12 +37,14 @@ Boas Práticas: Estudo e aplicação de princípios de Clean Code e arquitetura 
 
 Inglês Técnico: Aprimorando a comunicação para o ambiente de trabalho global.
 
+--------------------------------------------------------------------------------------------------------------------------
 
 🚀 Projetos em Destaque
 Projeto	Descrição	Tecnologias
 QuebraDica Sorocaba	Portal colaborativo para moradores de Sorocaba compartilharem dicas e informações locais, com uso de IA para categorização.	Python, IA
 Portfólio Pessoal	Meu portfólio profissional, desenvolvido para apresentar minha jornada, projetos e habilidades.	HTML, CSS
 
+--------------------------------------------------------------------------------------------------------------------------
 
 📈 Minhas Estatísticas no GitHub
 <div align="center">
@@ -46,6 +52,7 @@ Portfólio Pessoal	Meu portfólio profissional, desenvolvido para apresentar min
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvalves10&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
+--------------------------------------------------------------------------------------------------------------------------
 
 📫 Vamos nos Conectar?
 <p align="left">
@@ -57,6 +64,7 @@ Portfólio Pessoal	Meu portfólio profissional, desenvolvido para apresentar min
 </a>
 </p>
 
+--------------------------------------------------------------------------------------------------------------------------
 
 <p align="center"><i>"Cada commit é um passo rumo a algo maior."</i></p>
 
