@@ -46,14 +46,6 @@ Portfólio Pessoal	Meu portfólio profissional, desenvolvido para apresentar min
 
 --------------------------------------------------------------------------------------------------------------------------
 
-📈 Minhas Estatísticas no GitHub
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rvalves10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvalves10&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
---------------------------------------------------------------------------------------------------------------------------
-
 📫 Vamos nos Conectar?
 <div style="text-align: center;">
   <a href="mailto:richardvic12@gmail.com" target="_blank">
