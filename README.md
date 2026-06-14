@@ -110,7 +110,7 @@ Desenvolvedor de 21 anos, de Sorocaba. Foco em <b>backend</b> e <b>IA</b>. Toco 
 
 <div align="center">
   <a href="https://richardvictor.dev"><img src="https://img.shields.io/badge/Portfolio-FFD43B?style=for-the-badge&logo=firefox&logoColor=0d1117" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/richardvictor-dev"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
   <a href="mailto:richardvic12@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
   <a href="https://github.com/rvalves10"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
 </div>
